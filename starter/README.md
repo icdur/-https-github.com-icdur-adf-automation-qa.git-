@@ -1,7 +1,10 @@
 ## Prerequisites
 - install Node 
-- `npm install -g protractor` to install protractor
 - `npm install` to install the project dependencies
 
 ## Description
-- run tests: `protractor conf.js`
+- `npm run test` - will run the spec file
+
+## Explanation
+- used page objects model - libraries can be found in /pages folder
+- based on the script provided for the scenario I added all the steps in one single spec as requested
